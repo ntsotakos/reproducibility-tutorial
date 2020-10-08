@@ -2,6 +2,7 @@
 # Tutorial for FOSS 2020 online
   
 #Computer Setup 
+
 	#download the Miniconda installer
 	wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 
